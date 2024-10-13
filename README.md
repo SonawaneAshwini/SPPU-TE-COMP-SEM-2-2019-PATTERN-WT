@@ -23,7 +23,7 @@ cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
 
 ## Prerequisites
 - HTML, CSS, JavaScript
-- Jupyter Notebook
+- PHP, JAVA
 - Any additional libraries or frameworks mentioned in specific assignments or projects
 
 ## Contributing
