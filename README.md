@@ -10,12 +10,12 @@ This repository contains the lab assignments and practical exercises for the Web
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA.git
+git clone https://github.com/yourusername/SPPU-TE-COMP-SEM-2-2019-PATTERN-WT.git
 ```
 2. Navigate to the desired directory:
 
 ```bash
-cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
+cd SPPU-TE-COMP-SEM-2-2019-PATTERN-WT
 ```
 3. Explore the contents and run the code using your preferred IDE or command line interface.
 
