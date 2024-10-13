@@ -23,7 +23,7 @@ cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
 
 ## Prerequisites
 - HTML, CSS, JavaScript
-- PHP, JAVA
+- PHP, JAVA, XSLT
 - Any additional libraries or frameworks mentioned in specific assignments or projects
 
 ## Contributing
